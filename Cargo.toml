@@ -1,0 +1,9 @@
+[package]
+name = "password-checker"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+[[bin]]
+name = "password-checker"
+path = "src/main.rs"
+[dependencies]
